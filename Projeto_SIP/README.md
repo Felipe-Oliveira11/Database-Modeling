@@ -1,1 +1,1 @@
-### Modelagem do banco de dados relaciona do projeto SIP - SISTEMA  DE CONTROLE DE IMPLANTACAO DE PROJETOS
+### Modelagem do banco de dados relacional do projeto SIP - Sistema de Controle de Implantação de Projetos
